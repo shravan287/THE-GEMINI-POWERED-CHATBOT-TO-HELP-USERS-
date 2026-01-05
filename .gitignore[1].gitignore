@@ -1,0 +1,5 @@
+venv/
+.env
+__pycache__/
+tax_vector_db/
+*.pyc
